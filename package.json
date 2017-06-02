@@ -5,7 +5,7 @@
   "main": "demo_bot.js",
   "scripts": {
     "slack": "clientId='' clientSecret='' port=3000 node slack_bot.js",
-    "fb": "page_token='' verify_token='' port=3000 node facebook_bot.js",
+    "fb": "page_token='Kain Industries' verify_token='EAAarlMVqAWYBAKcbUZAZAzEGNctUVAhwT8DZBv6sUjdtRWiZBRhQGq1v46CJTZAPZBnZBYZAoosoJcyehqRJVC8VB3XszKXOxuv8FRA9wmzMVSwWbAc2CCUaChU1g4ZCDYtxEnU8VolViEm6hCpyGjmfdj0EwcpehYwZAxEuQOvOTFIgZDZD' port=3000 node facebook_bot.js",
     "tg": "token='' node telegram_bot.js"
   },
   "author": "abel.romero@devopensource.com",
